@@ -1,26 +1,29 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
-### Freelance full-stack iOS & Android engineer
+# Hola, mi nombre es Sebastián García 😁
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+### Orgullosamente Pony!
+<img src="https://user-images.githubusercontent.com/77241619/234718715-8dd9c922-281f-4a25-a1e4-f2134730984b.png" width="600" height="380" />
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software profesional desde hace más de doce años.
 
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
+Estudié la carrera de Ingeniería en Tecnologías de la Información y Comunicaciones en el Instituto Técnologico de Morelia y egresé con la especialidad en Seguridad de la Información.
 
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+# Desarrollo de Software: 
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
+A lo largo de mi carrera profesional desarrollé diversos proyectos. 
+El primero lo desarrollé en <ins>JAVA</ins>, una librería en la que se podian consultar libros para luego poder "comprarlos" y un CRUD creado para el administrador pudiera gestionar los libros. 
+### Repositorio en GitHub:
+------------
+El segundo proyecto fue una página web desarrollada con <ins>HTML/CSS/JS/jQuery</ins> igual de una librería donde se hacía exactamente lo mismo que en java pero agregando <ins>Boostrap</ins> entre otras tecnologias.
+### Repositorio en GitHub:
+-------------
+Por último y el más importante fue una aplicación android desarrollada con <ins>KOTLIN</ins>, el objetivo de la aplicación es ser el intermediario entre una persona que busca a alguien para que realice un trabajo y una persona dispuesta a realizar el trabajo, se puede editar el perfil de quien requiere el servicio como quien lo realizará y las personas pueden subir sus trabajos anteriores con imagenes y descripciones. Este proyecto lo desarrollé con diversas tecnologias que se facilita en Kotlin y Android Studio; <ins>material design, MVC, fragmentos, APIs y Firebase para BBDD, notificaciones, autenticación, almacenamiento, crashlytics.</ins>
+### Enlace oficial de Google Play: 
+### Repositorio en GitHub:
 
-## Tecnologías:
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+
+# Desarrollo de Software:
+[![Google Play](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
